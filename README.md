@@ -1,6 +1,6 @@
 # Scorpion-userboT
 
-This is a prower full USERBOT for telegram to protect your account from spammer with many plugins which help to protect your self 😌it provide inline button on pm security too😌 and assistance bot with inline modes 
+This is a power full USERBOT for telegram to protect your account from spammer with many plugins which help to protect your self 😌it provide inline button on pm security too😌 and assistance bot with inline modes 
 
 IT is fully safe to use in your Telegram account..
 
