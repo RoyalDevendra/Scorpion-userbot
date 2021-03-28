@@ -31,7 +31,7 @@ Your TELEGRAM ID's API id and API hash get both of them from [HERE](my.telegram.
 
 THIS IS SUPPORT FOR THE BOT 
 
-CHANNEL :- [||CHANNEL||](https://t.me/Scrorpion_official_Support)
+CHANNEL :- [||CHANNEL||](https://t.me/Scorpion_official_Support)
 
 GROUP :- [||GROUP||](https://t.me/scorpion_helpchat)
 
