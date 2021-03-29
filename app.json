@@ -56,7 +56,7 @@
 
    "value": ""
    
-   "required": true
+  "required": true
   },
 
   "HEROKU_API_KEY": {
