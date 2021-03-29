@@ -55,7 +55,7 @@
    "description": "Important to activate get it from here :- https://replit.com/@loverboyXD/Scorpion-sessionstring",
 
    "value": ""
-
+   "required": true
   },
 
   "HEROKU_API_KEY": {
