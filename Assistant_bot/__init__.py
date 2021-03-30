@@ -2,7 +2,7 @@
 
 # Copyright (C) 2021 scorpion
 
-#
+
 
 # This file is a part of < https://github.com/loverboyXD/Scorpion-userbot/ >
 
