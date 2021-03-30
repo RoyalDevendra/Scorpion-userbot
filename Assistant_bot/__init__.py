@@ -1,3 +1,16 @@
+# Ultroid - scorpion
+
+# Copyright (C) 2021 scorpion
+
+#
+
+# This file is a part of < https://github.com/loverboyXD/Scorpion-userbot/ >
+
+# PLease read the GNU Affero General Public License in
+
+# <https://www.github.com/LoverboyXD/scorpion-userbot/blob/mainfucker/LICENSE/>.
+
+
 from scorpion import *
 
 from scorpion.dB.database import Var
