@@ -112,9 +112,9 @@ RUN wget https://chromedriver.storage.googleapis.com/88.0.4324.96/chromedriver_l
 
 RUN git clone https://github.com/loverboyXD/scorpion-userbot/ root/loverboyXD
 
-RUN mkdir /root/scorpion/bin/
+RUN mkdir /root/scorpion-userbot/bin/
 
-WORKDIR /root/scorpion/
+WORKDIR /root/scorpion-userbot/
 
 RUN chmod +x /usr/local/bin/*
 
