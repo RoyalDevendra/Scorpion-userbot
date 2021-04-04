@@ -6,19 +6,19 @@
 
 """
 ♛ Commands Available -
-• `{i}mute <reply to msg/ user id>`
+• `\.mute <reply to msg/ user id>`
     Mute user in current chat.
    
-• `{i}unmute <reply to msg/ user id>`
+• `\.unmute <reply to msg/ user id>`
     Unmute user in current chat.
    
-• `{i}dmute <reply to msg/ user id>`
+• `\.dmute <reply to msg/ user id>`
     Mute user in current chat by deleting msgs.
    
-• `{i}undmute <reply to msg/ use id>`
+• `\.undmute <reply to msg/ use id>`
     Unmute dmuted user in current chat.
    
-• `{i}tmute <time> <reply to msg/ use id>`
+• `\.tmute <time> <reply to msg/ use id>`
     time - m- minutes
            h- hours
            d- days
