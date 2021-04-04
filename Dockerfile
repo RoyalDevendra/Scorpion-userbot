@@ -1,8 +1,8 @@
 FROM scorpionofficialteam/scorpion
 
-RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/scorpionofficalteam/
+RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/loverboyxd/
 
-WORKDIR /root/scorpionofficialteam/
+WORKDIR /root/loverboyXd/
 
 RUN pip install -r requirements.txt
 
