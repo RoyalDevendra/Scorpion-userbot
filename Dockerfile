@@ -1,6 +1,6 @@
-From scorpionofficialteam/scorpion:0.0.1
+From scorpionofficialteam/scorpion
 
-RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/loverboyxd/
+RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/scorpionofficalteam/
 
 WORKDIR /root/scorpionofficialteam/
 
