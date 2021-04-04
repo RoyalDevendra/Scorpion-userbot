@@ -1,4 +1,4 @@
-From loverboyXD/scorpion-userbot
+From loverboyxd/scorpion-userbot
 
 RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/loverboyxd/
 
