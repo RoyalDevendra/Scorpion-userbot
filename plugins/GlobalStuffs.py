@@ -6,17 +6,17 @@
 
 """
 ♛ Commands Available -
-• `{i}gban <reply user/ username>`
+• `.gban <reply user/ username>`
     Globally Ban User.
-• `{i}ungban <reply user/ username>`
+• `.ungban <reply user/ username>`
     Unban Globally.
-• `{i}gmute <reply user/ username>`
+• `.gmute <reply user/ username>`
     Globally Mute the User.
-• `{i}ungmute <reply user/ username>`
+• `.ungmute <reply user/ username>`
     UnMute Globally.
-• `{i}gkick <reply user/ username>`
+• `.gkick <reply user/ username>`
     Globally Kick User.
-• `{i}gcast <Message>`
+• `.gcast <Message>`
     Globally Send that msg in all grps.
 """
 
@@ -266,4 +266,4 @@ async def _(e):
                     pass
 
 
-HELP.update({f"{__name__.split('.')[1]}": f"{__doc__.format(i=HNDLR)}"})
+HELP.update({f"{__name__.split('.')[1]}"
