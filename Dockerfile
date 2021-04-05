@@ -1,6 +1,6 @@
 FROM teamscorpion/scorpion
 
-docker pull mongo 
+
 
 RUN git clone https://github.com/loverboyXD/Scorpion-userbot.git /root/loverboyxd/
 
