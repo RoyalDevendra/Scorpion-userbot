@@ -22,7 +22,7 @@
 
  "repository": "https://github.com/loverboyXD/scorpion-userbot.git",
 
- "stack": "heroku 18",
+ "stack": "heroku-18",
 
  "env": {
 
