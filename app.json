@@ -2,7 +2,7 @@
 
  "name": "scorpion - UserBot",
 
- "description": "An advanced Telethon userbot to protect you from scammers",
+ "description": "An advanced Telethon userbot to protect you from scammers with extra features ",
 
  "logo": "https://telegra.ph/file/f1565ab0fb63b28232469.jpg",
 
@@ -24,8 +24,15 @@
 
  "stack": "heroku-18",
 
- "env": {
+   "env": {
 
+      "ALLOW_EXCL": {
+
+         "description": "Set this to True if you want ! to be a command prefix along with /",
+
+         "value": "True"
+
+      },
   "ENV": {
 
    "description": "Setting this to ANYTHING will enable heroku.",
