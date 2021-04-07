@@ -22,7 +22,7 @@ SCORPIONPIC = (
 
     if PMPERMIT_PIC
 
-    else "https://telegra.ph/file/961fb06c395c693116116.jpg"
+    else "https://telegra.ph/file/23d3d0fa117ce727e25d8.jpg"
 
 )
 
