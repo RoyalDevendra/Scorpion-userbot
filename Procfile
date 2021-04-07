@@ -1,1 +1,1 @@
-worker: python -m scorpion-userbot
+web : python -m bot
