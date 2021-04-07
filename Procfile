@@ -1,1 +1,1 @@
-worker: python3 -m scorpion
+worker: python -m scorpion
