@@ -28,4 +28,4 @@ echo "
 
  
 
-python3 -m scorpion-userbot
+python -m scorpion-userbot
