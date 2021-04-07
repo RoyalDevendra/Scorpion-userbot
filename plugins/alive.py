@@ -122,7 +122,7 @@ async def amireallyalive(alive):
 
         scorpion += (
 
-            f"{telemoji} **Telethon version**: `1.17`\n{scorpionemoji} **Python**: `3.8.3`\n"
+            f"{scorpionemoji} **Telethon version**: `1.17`\n{scorpionemoji} **Python**: `3.8.3`\n"
 
         )
 
