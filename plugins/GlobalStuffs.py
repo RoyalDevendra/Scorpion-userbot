@@ -1,5 +1,5 @@
 # Scorpion - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Copyright (C) 2021 ScorpionUserbot
 # This file is a part of < https://github.com/loverboyXD/Scorpion-userbot/ >
 # Given Below is the license
 # <https://www.github.com/loverboyXD/Scorpion-userbot/blob/main/LICENSE/>.
