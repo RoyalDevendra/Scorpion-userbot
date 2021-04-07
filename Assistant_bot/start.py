@@ -1,4 +1,4 @@
-# Ultroid - scorpion
+# userbot - scorpion
 
 # Copyright (C) 2021 scorpion
 
