@@ -1,2 +1,2 @@
-web : python -m bot 
-   CMD: [!bash/resources/start.sh]
+web : python3 -m bot 
+
