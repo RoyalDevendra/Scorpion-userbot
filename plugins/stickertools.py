@@ -450,7 +450,7 @@ async def ultiny(event):
         return
     xx = await eor(event, "`processing...`")
     ik = await scorpion_bot.download_media(reply)
-    im1 = Image.open("resources/extras/scorpion_blank.png")
+    im1 = Image.open("resources/extras/IMG_20210409_093647_146.png")
     if ik.endswith(".tgs"):
         await event.client.download_media(reply, "ult.tgs")
         os.system("lottie_convert.py ult.tgs json.json")
